@@ -1,0 +1,11 @@
+C:\Users\ayjain\Desktop\UI Project\UIAutomationProject_Test\UIAutomation_ProductModel\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\ayjain\Desktop\UI Project\UIAutomationProject_Test\UIAutomation_ProductModel\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\ayjain\Desktop\UI Project\UIAutomationProject_Test\UIAutomation_ProductModel\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\ayjain\Desktop\UI Project\UIAutomationProject_Test\UIAutomation_ProductModel\bin\Debug\UIAutomation_ProductModel.dll
+C:\Users\ayjain\Desktop\UI Project\UIAutomationProject_Test\UIAutomation_ProductModel\bin\Debug\UIAutomation_ProductModel.pdb
+C:\Users\ayjain\Desktop\UI Project\UIAutomationProject_Test\UIAutomation_ProductModel\bin\Debug\WebDriver.dll
+C:\Users\ayjain\Desktop\UI Project\UIAutomationProject_Test\UIAutomation_ProductModel\bin\Debug\WebDriver.Support.dll
+C:\Users\ayjain\Desktop\UI Project\UIAutomationProject_Test\UIAutomation_ProductModel\obj\Debug\UIAutomation_ProductModel.csproj.CoreCompileInputs.cache
+C:\Users\ayjain\Desktop\UI Project\UIAutomationProject_Test\UIAutomation_ProductModel\obj\Debug\UIAutomation_ProductModel.csproj.CopyComplete
+C:\Users\ayjain\Desktop\UI Project\UIAutomationProject_Test\UIAutomation_ProductModel\obj\Debug\UIAutomation_ProductModel.dll
+C:\Users\ayjain\Desktop\UI Project\UIAutomationProject_Test\UIAutomation_ProductModel\obj\Debug\UIAutomation_ProductModel.pdb
